@@ -1,0 +1,16 @@
+.even {
+    background-color: #f2f2f2;
+  }
+  
+  .odd {
+    background-color: bisque;
+  }
+  
+  .movie-row {
+    height: 70px;
+  }
+
+  .movie-row td {
+    font-size: 90%;
+    padding-inline: 10px;
+  }

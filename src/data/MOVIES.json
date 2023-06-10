@@ -1,0 +1,254 @@
+{
+  "movies": [
+    {
+      "picture": "https://example.com/movie1.jpg",
+      "name": "Inception",
+      "rating": 8.8
+    },
+    {
+      "picture": "https://example.com/movie2.jpg",
+      "name": "The Shawshank Redemption",
+      "rating": 9.3
+    },
+    {
+      "picture": "https://example.com/movie3.jpg",
+      "name": "Pulp Fiction",
+      "rating": 8.9
+    },
+    {
+      "picture": "https://example.com/movie4.jpg",
+      "name": "Fight Club",
+      "rating": 8.8
+    },
+    {
+      "picture": "https://example.com/movie5.jpg",
+      "name": "The Dark Knight",
+      "rating": 9.0
+    },
+    {
+      "picture": "https://example.com/movie6.jpg",
+      "name": "The Matrix",
+      "rating": 8.7
+    },
+    {
+      "picture": "https://example.com/movie7.jpg",
+      "name": "Forrest Gump",
+      "rating": 8.8
+    },
+    {
+      "picture": "https://example.com/movie8.jpg",
+      "name": "Goodfellas",
+      "rating": 8.7
+    },
+    {
+      "picture": "https://example.com/movie9.jpg",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": 8.8
+    },
+    {
+      "picture": "https://example.com/movie10.jpg",
+      "name": "Seven",
+      "rating": 8.6
+    },
+    {
+      "picture": "https://example.com/movie11.jpg",
+      "name": "Gladiator",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie12.jpg",
+      "name": "The Silence of the Lambs",
+      "rating": 8.6
+    },
+    {
+      "picture": "https://example.com/movie13.jpg",
+      "name": "The Departed",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie14.jpg",
+      "name": "The Godfather",
+      "rating": 9.2
+    },
+    {
+      "picture": "https://example.com/movie15.jpg",
+      "name": "The Lion King",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie16.jpg",
+      "name": "The Avengers",
+      "rating": 8.0
+    },
+    {
+      "picture": "https://example.com/movie17.jpg",
+      "name": "Inglourious Basterds",
+      "rating": 8.3
+    },
+    {
+      "picture": "https://example.com/movie18.jpg",
+      "name": "The Social Network",
+      "rating": 7.7
+    },
+    {
+      "picture": "https://example.com/movie19.jpg",
+      "name": "Interstellar",
+      "rating": 8.6
+    },
+    {
+      "picture": "https://example.com/movie20.jpg",
+      "name": "The Dark Knight Rises",
+      "rating": 8.4
+    },
+    {
+      "picture": "https://example.com/movie21.jpg",
+      "name": "The Shawshank Redemption",
+      "rating": 9.3
+    },
+    {
+      "picture": "https://example.com/movie22.jpg",
+      "name": "The Godfather: Part II",
+      "rating": 9.0
+    },
+    {
+      "picture": "https://example.com/movie23.jpg",
+      "name": "The Prestige",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie24.jpg",
+      "name": "The Pianist",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie25.jpg",
+      "name": "Inception",
+      "rating": 8.8
+    },
+    {
+      "picture": "https://example.com/movie26.jpg",
+      "name": "The Green Mile",
+      "rating": 8.6
+    },
+    {
+      "picture": "https://example.com/movie27.jpg",
+      "name": "The Departed",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie28.jpg",
+      "name": "The Dark Knight",
+      "rating": 9.0
+    },
+    {
+      "picture": "https://example.com/movie29.jpg",
+      "name": "Whiplash",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie30.jpg",
+      "name": "The Lord of the Rings: The Two Towers",
+      "rating": 8.7
+    },
+    {
+      "picture": "https://example.com/movie31.jpg",
+      "name": "Scarface",
+      "rating": 8.3
+    },
+    {
+      "picture": "https://example.com/movie32.jpg",
+      "name": "The Matrix",
+      "rating": 8.7
+    },
+    {
+      "picture": "https://example.com/movie33.jpg",
+      "name": "The Lord of the Rings: The Return of the King",
+      "rating": 8.9
+    },
+    {
+      "picture": "https://example.com/movie34.jpg",
+      "name": "Saving Private Ryan",
+      "rating": 8.6
+    },
+    {
+      "picture": "https://example.com/movie35.jpg",
+      "name": "The Shining",
+      "rating": 8.4
+    },
+    {
+      "picture": "https://example.com/movie36.jpg",
+      "name": "Goodfellas",
+      "rating": 8.7
+    },
+    {
+      "picture": "https://example.com/movie37.jpg",
+      "name": "Gone Girl",
+      "rating": 8.1
+    },
+    {
+      "picture": "https://example.com/movie38.jpg",
+      "name": "The Revenant",
+      "rating": 8.0
+    },
+    {
+      "picture": "https://example.com/movie39.jpg",
+      "name": "The Silence of the Lambs",
+      "rating": 8.6
+    },
+    {
+      "picture": "https://example.com/movie40.jpg",
+      "name": "Django Unchained",
+      "rating": 8.4
+    },
+    {
+      "picture": "https://example.com/movie41.jpg",
+      "name": "The Lion King",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie42.jpg",
+      "name": "Black Swan",
+      "rating": 8.0
+    },
+    {
+      "picture": "https://example.com/movie43.jpg",
+      "name": "The Avengers",
+      "rating": 8.0
+    },
+    {
+      "picture": "https://example.com/movie44.jpg",
+      "name": "The Social Network",
+      "rating": 7.7
+    },
+    {
+      "picture": "https://example.com/movie45.jpg",
+      "name": "Schindler's List",
+      "rating": 8.9
+    },
+    {
+      "picture": "https://example.com/movie46.jpg",
+      "name": "The Departed",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie47.jpg",
+      "name": "Her",
+      "rating": 8.0
+    },
+    {
+      "picture": "https://example.com/movie48.jpg",
+      "name": "The Dark Knight Rises",
+      "rating": 8.4
+    },
+    {
+      "picture": "https://example.com/movie49.jpg",
+      "name": "American History X",
+      "rating": 8.5
+    },
+    {
+      "picture": "https://example.com/movie50.jpg",
+      "name": "Se7en",
+      "rating": 8.6
+    }
+  ]
+}
