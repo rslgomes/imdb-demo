@@ -5,6 +5,7 @@ import {
   RouterProvider,
 } from 'react-router-dom';
 import './css/index.css';
+
 import MovieDetail from './Routes/MovieDetail/MovieDetail';
 import FilterableMovieTable from './Routes/FilterableMovieTable/FilterableMovieTable';
 
