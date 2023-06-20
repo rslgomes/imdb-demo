@@ -18,7 +18,6 @@ function MovieDetail() {
   useEffect(() => {
     setMovie(moviesData.movies[movieId - 1]);
   }, [movieId]);
-  console.log(movie);
 
   if (!movie) {
     return <div>Loading...</div>;
