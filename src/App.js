@@ -1,9 +1,13 @@
-import FilterableMovieTable from './FilterableMovieTable/FilterableMovieTable';
-import moviesData from './data/MOVIES.json';
-
-const MOVIES = moviesData.movies;
+import { Route, Routes } from 'react-router-dom';
+import FilterableMovieTable from './Routes/FilterableMovieTable/FilterableMovieTable';
+import MovieDetail from './Routes/MovieDetail/MovieDetail';
 
 function App() {
-  return <FilterableMovieTable movies={ MOVIES } />;
+  return (
+    <Routes>
+      <Route path="/" element={ <FilterableMovieTable /> } />
+      <Route path="/movies/:movieId" element={ <MovieDetail /> } />
+    </Routes>
+  );
 }
 export default App;

@@ -1,0 +1,13 @@
+.sort-by-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 5px;
+}
+.custom-select-items {
+    border-width: 1px;
+    border-style: solid;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    border-radius: 0px;
+}

@@ -1,17 +1,16 @@
 import { useState } from 'react';
 import MovieTable from './MovieTable/MovieTable';
-import SortByContainer from './SortBy/SortByContainer';
+import SortByOptions from './SortBy/SortByOptions';
+import './css/index.css';
 
-function FilterableMovieTable({ movies }) {
+function FilterableMovieTable() {
   const [sortType, setSortType] = useState('rating');
   return (
-    <div>
-      <SortByContainer
-        sortType={ sortType }
+    <div className="movie-table">
+      <SortByOptions
         setSortType={ setSortType }
       />
       <MovieTable
-        movies={ movies }
         sortType={ sortType }
       />
     </div>

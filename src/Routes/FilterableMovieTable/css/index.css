@@ -1,0 +1,6 @@
+.movie-table{
+    display: flex;
+    flex-direction: column;
+    max-width: 650px;
+    align-items:flex-end;
+}
